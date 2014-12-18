@@ -6,4 +6,4 @@ $db->select('CRUDClass','id,name',NULL,'name="Name 1"','id DESC'); // Table name
 $res = $db->getResult();
 print_r($res);
 
-echo "hello";
+echo "hello ";
