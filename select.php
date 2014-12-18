@@ -7,3 +7,6 @@ $res = $db->getResult();
 print_r($res);
 echo "hi";
 echo "hello ";
+
+echo "byeeeeeeeeeeee ";
+
